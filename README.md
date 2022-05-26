@@ -1,8 +1,7 @@
-![App Screenshot](.github/cover.png)
-
 # Flash.Cards
-App to help memorize. This application was created for the purpose of studies.
 
+App para ajudar a memorizar.
+Este aplicativo foi preparado para fins de estudos.
 
 ## Stack used
 
@@ -15,7 +14,7 @@ App to help memorize. This application was created for the purpose of studies.
 
 ## Running
 
-You have two branchs. The master you have project base with layout design only. And, the done you have the project finished with charts implemented.
+Aplicação modelo para estudarmos e aprender um pouco sobre animação;
 
 Clone this project and start with Expo:
 
