@@ -1,4 +1,4 @@
-# Flash Cards;
+# Flash Cards
 
 App para ajudar a memorizar.
 Este aplicativo foi preparado para fins de estudos.
