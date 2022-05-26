@@ -1,9 +1,9 @@
-# Flash.Cards
+# Flash Cards;
 
-App para ajudar a memorizar. </b>
+App para ajudar a memorizar.
 Este aplicativo foi preparado para fins de estudos.
 
-## Stack used
+## Ferramentas utilizada;
 
 - React Native
 - Typescript
@@ -12,12 +12,11 @@ Este aplicativo foi preparado para fins de estudos.
 - Moti
 - React Native SVG
 
-## Running
+## Estudo e aprendizado;
 
 Aplicação modelo para estudarmos e aprender um pouco sobre animação;
 
-Clone this project and start with Expo:
-
+Clone este projeto e comece com a Expo;
 ```bash
   git clone https://github.com/SilvaneiMartins/flashcards
   cd flashcards
