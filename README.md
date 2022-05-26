@@ -1,6 +1,6 @@
 # Flash.Cards
 
-App para ajudar a memorizar.
+App para ajudar a memorizar. </b>
 Este aplicativo foi preparado para fins de estudos.
 
 ## Stack used
