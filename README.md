@@ -3,6 +3,11 @@
 App para ajudar a memorizar.
 Este aplicativo foi preparado para fins de estudos.
 
+<h4 align="left">
+  Imagem do aplicativo
+</h4>
+<a href="https://imgur.com/zR3aOfX"><img src="https://i.imgur.com/zR3aOfX.jpg" title="source: imgur.com" /></a>
+
 ## Ferramentas utilizada;
 
 - React Native
